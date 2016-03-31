@@ -7,3 +7,11 @@ Browse each component of our platform, and for each presales unique presales pre
 Any new files should be in Markdown format and compatable with [Deckset](http://www.decksetapp.com/). 
 
 These should roughly stick to the platform itself. Perhaps for more conceptual topics we create a new repo.
+
+## Images
+
+Images should not be checked into this repo. They should be public, e.g, via Dropbox (shared), Cloudinary, etc. We can standardize on an image repo at a later date.
+
+## Requesting new images
+
+Feel free to build out a deck and leave placeholders for new images. We can add these to issues. The look and feel should stay consistent.
