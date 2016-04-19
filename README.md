@@ -1,4 +1,4 @@
-# Lightbend Presales Presentations
+# Lightbend Technical Presentations
 
 Mix and match presentations in Markdown to accelerate building a Lightbend technology deck. 
 
